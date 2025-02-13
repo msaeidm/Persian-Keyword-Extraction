@@ -1,0 +1,3 @@
+hazm==0.7.0
+numpy
+python-dateutil==2.8.2
